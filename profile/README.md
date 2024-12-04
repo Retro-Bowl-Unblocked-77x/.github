@@ -2,7 +2,7 @@
 
 <h3>
 <a href="https://1lesson.guru">CLICK TO PLAY RETRO BOWL</a>
-</hr>
+</br>
 
 <a href="https://lesson1.site">CLICK TO PLAY RETRO BOWL 2</A>
 
